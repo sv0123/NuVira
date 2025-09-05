@@ -5,6 +5,7 @@
 ✅ Video & audio calling with screen sharing  
 ✅ Responsive and scalable design  
 
+![NuVira Screenshot](./frontend/public/Screenshot 2025-09-05 203544.png)
 
 ---
 
